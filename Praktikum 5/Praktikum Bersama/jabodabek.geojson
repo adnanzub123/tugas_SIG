@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "jabodabek",
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "nama": "DKI_Jakarta", "luas": 661.5, "populasi": "11135,191", "tahun": 2024, "GDB": 21.166 }, "geometry": { "type": "Point", "coordinates": [ 106.829496666276782, -6.177928937464756 ] } },
+{ "type": "Feature", "id": 1, "properties": { "nama": "Kota Depok", "luas": 200.3, "populasi": "1927,867", "tahun": 2024, "GDB": 2.678 }, "geometry": { "type": "Point", "coordinates": [ 106.814053175120932, -6.409237734959859 ] } },
+{ "type": "Feature", "id": 2, "properties": { "nama": "Kota Tangerang", "luas": 164.5, "populasi": "1927,815", "tahun": 2024, "GDB": 6.949 }, "geometry": { "type": "Point", "coordinates": [ 106.631955337184365, -6.182267712260668 ] } },
+{ "type": "Feature", "id": 3, "properties": { "nama": "Bekasi", "luas": 210.5, "populasi": "2530,000", "tahun": 2024, "GDB": 2.971 }, "geometry": { "type": "Point", "coordinates": [ 106.994394186957265, -6.237243189246371 ] } },
+{ "type": "Feature", "id": 4, "properties": { "nama": "Tangerang Selatan", "luas": 147.19, "populasi": "1429,529", "tahun": 2024, "GDB": 4.921 }, "geometry": { "type": "Point", "coordinates": [ 106.708179590125894, -6.311525206736391 ] } },
+{ "type": "Feature", "id": 5, "properties": { "nama": "Kota Bogor", "luas": 118.5, "populasi": "1137,859", "tahun": 2024, "GDB": 2.678 }, "geometry": { "type": "Point", "coordinates": [ 106.794659453219367, -6.593127311831182 ] } }
+]
+}
